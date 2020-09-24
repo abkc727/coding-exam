@@ -10,5 +10,7 @@ public interface ItemDao {
 	public Item[] fetchItems();
 	public Item fetchItemByCode(int itemCode);
 
+	
+
 
 }
